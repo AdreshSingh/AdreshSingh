@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdreshSingh
-- 👀 I’m interested in ... Graphics, coding, programming.
-- 🌱 I’m currently learning ... Languages
-- 💞️ I’m looking to collaborate on ... Everything
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently learning Android development with java/kotlin.
+- 💞️ I’m looking to collaborate on android or web projects.
 - 📫 How to reach me ... adreshsingh271527@gmail.com
 
 <!---
